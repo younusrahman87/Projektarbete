@@ -1,0 +1,113 @@
+BOSSE:
+
+1. Överallt där det står "Mekanik" ska det stå MEKANIKER, Alla Mekanikers lista tex. 
+Välj mekaniker
+Mekanikers namn
+Mekanikers födelsedatum
+Mekanikers kompetens
+Mekanikers första ärende
+Mekanikers andra ärende
+Mekanik registerade datum = Datum när mekaniker registRerades 
+
+2.Överallt där det står "Ärande" ska det stå ÄRENDE
+
+Överallt där det står välja ska det stå VÄLJ dvs..
+3. Välja fordon reg = Välj fordonets regnummer
+
+4. Välja ärendets problem = VÄLJ ärendets problem
+
+5.
+Lägga till fordon: 
+FordonETS Märke
+Fordonets Modell
+Fordonets Mätare
+
+
+6. Lägga till Mekaniker:
+Vill du lägga till ETT ANVÄNDARKONTO?
+
+7.Välkommen Bosse!
+Idag är DET den 16e November
+
+8.MekanikInfo
+Det finns totalt mekanik = Totalt antal mekaniker
+
+Total mekanik som har konto = Totalt antal mekaniker med konto
+
+total mekanik som har bromms kompetense = (alternativ1) Antal mekaniker med bromskompetens/									(alternativ2)Antal 											mekaniker med kompetens för broms
+					
+					= Antal mekaniker med motorkompetens
+					= Antal mekaniker med karosskompetens
+					= Antal mekaniker med vindrutekompetens
+					= Antal mekaniker med däck-kompetens
+9.FordonInfo
+	
+	Total fordon = Totalt antal fordon
+			Totalt antal motorcyklar
+			Totalt antal bilar
+			Totalt antal lastbilar
+			Totalt antal bussar
+
+
+	Total på gåend Ärande = Pågående ärenden
+	Total fordon väntar fär skapa ärende = Fordon som behöver kopplas till ärende
+
+10. Beställa komponent = Beställ komponent
+Beställa bromsar = Beställ bromsar
+Beställa Motor = Beställ motor
+Beställa Kaross = Beställ kaross
+Beställa Vindruta = Beställ vindruta
+Beställa Däck = Beställ däck
+dvs Beställa = Beställ
+
+
+11.Alla fordon
+ MekanikID = Mekanikers ID
+
+
+
+
+ANVÄNDARE:
+
+
+1. Änvändare information = Användare information
+Användare namn = AnvändareS namn
+Användare E-mail = AnvändareS E-mail osv
+
+Total ärande klart = Totalt antal ärenden avklarade:
+
+
+2. Lägga till/ta bort kompetens = Lägg till/ta bort kompetens
+
+
+3. Pågående ärenden: 
+	Första ärende = Första ärendeT
+			Andra ärendet	
+
+		**Finns inget ärEnde
+
+
+4. Avlutat ärende:
+	--- välja absolut ärende ----  = Välj avslutat ärende
+
+	Ärande regnummer = Ärende Regnummer
+
+	Fordon typ = Fordonets typ
+			Fordonets märke
+		Model =	Fordonets Modell
+	Ärande nummer = Ärendenummer
+	Ärande problem = Ärendeproblem
+
+	--- kommentar --- = --- Kommentarer ---
+
+
+5. Jag har satt igång! / Jag har satt igång! = Jag har satt igång! / Jag är färdig!
+
+
+
+
+
+
+
+
+
